@@ -1,8 +1,8 @@
-# Pilou
+# Pilou-lang
 
-*This repository is a tribute to a friend and his cat.*
+*This repository is a ~joke~ tribute to a friend and his cat.*
 
-Pilou is a derivative of the [brainfuck](https://en.wikipedia.org/wiki/Brainfuck) programming language.
+Pilou-lang is a derivative of the [brainfuck](https://en.wikipedia.org/wiki/Brainfuck) programming language.
 
 This repository contains the [pilou compiler source code](pilousource) and [some pilou code examples](pilouexamples).
 
@@ -59,8 +59,8 @@ The output file will be `path/to/file.c`.
 ## Install
 
 ```sh
-git clone https://github.com/gbeldilmi/pilou.git
-cd pilou/pilousource
+git clone https://github.com/gbeldilmi/pilou-lang.git
+cd pilou-lang/pilousource
 gcc pilou.c -o pilou
 sudo cp pilou /usr/bin/pilou
 ```
